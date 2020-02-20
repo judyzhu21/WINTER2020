@@ -23,3 +23,10 @@ Joey Mauer (12:30pm)
 Stephen Chen (3:30pm)  
 Alex Veroulis (12:30pm)   
 Colin Rabago (12:30pm)   
+
+#### Team 2: Library 140
+Yiduan Ma(12:30pm) 
+Yihang Wang(12:30pm) 
+Di Zhu(12:30pm) 
+Siyu Liu(12:30pm) 
+Chia-lin Tsai(12:30pm)
