@@ -65,3 +65,10 @@ Emily Li (12:30 pm)
 Crystal Qian (12:30 pm)  
 Jennifer Zhang (12:30 pm)  
 Lucy Zhao (12:30 pm)  
+
+#### Team 8: Library 140
+Yiduan Ma (12:30 pm) 
+Di Zhu (12:30 pm) 
+Yihang Wang (12:30 pm) 
+Siyu Liu (12:30 pm) 
+Chia-Lin Tsai (12:30 pm)
